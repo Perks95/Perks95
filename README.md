@@ -5,12 +5,12 @@ I am currently learning data science and my profile is to share the things I am 
 
 ## 🎓 Education
 - **Masters in Public Administration** (03/2022 - 03/2023)  
-  Stellenbosch University, School of Public Leadership  
+  Stellenbosch University 
   *Focus: Public Financial Management Systems*  
   *Thesis: Comparative Analysis of Public Financial Management in Malawi and South Africa*
 
 - **BA Hons in Public and Development Administration** (03/2021 - 10/2021)  
-  Stellenbosch University, School of Public Leadership
+  Stellenbosch University
 
 - **BA in Public Administration / Minor in Economics** (01/2014 - 11/2018)  
   University of Malawi, Chancellor College
