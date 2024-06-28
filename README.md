@@ -1,8 +1,3 @@
-<h1 align="center">
-    <img src="" alt="Perekamoyo T.K. Matala-banda" />
-</h1>
-
-
 # Hi, I'm Perekamoyo T.K. Matala-banda! 👋
 
 ## 🌟 About Me
