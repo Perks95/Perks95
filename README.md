@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://github.com/Perks95/picture/blob/main/51842.jpeg?raw=true" alt="Perekamoyo T.K. Matala-banda" />
+    <img src="" alt="Perekamoyo T.K. Matala-banda" />
 </h1>
 
 
