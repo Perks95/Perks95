@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="[URL_to_Your_Image_or_Logo](https://media.licdn.com/dms/image/C4D03AQH63elPJs81UA/profile-displayphoto-shrink_400_400/0/1599326643274?e=1724889600&v=beta&t=Tw8W9Fjq0aUAZMQRK7FkdF8R0IdhoCaCsjz-Nqgad34)" alt="Perekamoyo T.K. Matala-banda" />
+    <img src="[URL_to_Your_Image_or_Logo]([https://media.licdn.com/dms/image/C4D03AQH63elPJs81UA/profile-displayphoto-shrink_400_400/0/1599326643274?e=1724889600&v=beta&t=Tw8W9Fjq0aUAZMQRK7FkdF8R0IdhoCaCsjz-Nqgad34](https://github.com/Perks95/picture/blob/main/51842.jpeg?raw=true))" alt="Perekamoyo T.K. Matala-banda" />
 </h1>
 
 # Hi, I'm Perekamoyo T.K. Matala-banda! 👋
